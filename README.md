@@ -2,8 +2,8 @@
 
 <h2>🖥️ Software Projects:</h2>
 
-- <b>Words Per Minute Typing Tester Game (Python)</b>
-  - https://github.com/RobW321/personal_projects/tree/main/Marble%20Solitaire%20Game
+- <b>Words Per Minute Tester Game (Python)</b>
+  - https://github.com/RobW321/personal_projects/tree/main/WPMTypeTester
 - <b>Marble Solitaire Game (Java)</b>
   - https://github.com/RobW321/personal_projects/tree/main/Marble%20Solitaire%20Game
 - <b>LightEmAll Maze Game (Java) </b>

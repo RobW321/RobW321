@@ -2,6 +2,8 @@
 
 <h2>🖥️ Software Projects:</h2>
 
+- <b>NU Track Application (Python, JavaScript, SQL)</b>
+  - https://github.com/RobW321/JazzMen-NUTrack-Project
 - <b>Words Per Minute Tester Game (Python)</b>
   - https://github.com/RobW321/personal_projects/tree/main/WPMTypeTester
 - <b>Marble Solitaire Game (Java)</b>

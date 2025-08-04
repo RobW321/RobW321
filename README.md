@@ -11,5 +11,5 @@
 - <b>LightEmAll Maze Game (Java) </b>
   - https://github.com/RobW321/LightEmAll/tree/main
 - <b>Minesweeper Game (Java) </b>
-  - https://github.com/RobW321/personal_projects/blob/main/Minesweeper.java
+  - https://github.com/RobW321/Minesweeper/tree/main
 

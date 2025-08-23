@@ -2,7 +2,9 @@
 
 <h2>🖥️ Software Projects:</h2>
 
-- <b>NU Track Application (Python, JavaScript, SQL)</b>
+- <b>LinguaLens (JavaScript, Python, React, Node.js) </b>
+  - https://github.com/RobW321/LinguaLens
+- <b>NU Track Application (Python, JavaScript, SQL, Streamlit, Flask, MySQL)</b>
   - https://github.com/RobW321/JazzMen-NUTrack-Project
 - <b>Marble Solitaire Game (Java)</b>
   - https://github.com/RobW321/MarbleSolitaireGame

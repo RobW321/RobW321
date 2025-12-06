@@ -1,7 +1,9 @@
-<h1>I'm Robel, welcome to my repository! <br/><a href="https://github.com/joshmadakor1">Student</a>
+<h1>I'm Robel, welcome to my repository! <br/><a href="https://github.com/RobW321">Student</a>
 
 <h2>🖥️ Software Projects:</h2>
 
+- <b>AI Agent Maze Game (Python, Pygame) </b>
+  - https://github.com/RobW321/AI_maze_game
 - <b>Cloudflare AI Agent (JavaScript, Python, React) </b>
   - https://github.com/RobW321/cf_ai_cloudflare_application
 - <b>LinguaLens (JavaScript, Python, React, Node.js) </b>
